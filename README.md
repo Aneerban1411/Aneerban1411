@@ -1,7 +1,7 @@
 ## I’m @Aneerban1411
 
-I’m interested in **Machine Learning** and **Computer Vision**
-Currently, I'm learning more about Computer Vision
+I’m interested in **Machine Learning** and **Computer Vision**<br>
+Currently, I'm learning more about Computer Vision<br>
 
 `email:` aneerban.chakraborty@gmail.com
 
