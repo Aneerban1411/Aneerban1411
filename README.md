@@ -3,8 +3,8 @@
 I’m interested in **Machine Learning** and **Computer Vision**<br>
 Currently, I'm learning more about Computer Vision<br>
 
-`email:` aneerban.chakraborty@gmail.com<br>
-`linkedin:` [Aneerban Chakraborty](https://www.linkedin.com/in/aneerban-chakraborty/)
+`Email:` aneerban.chakraborty@gmail.com<br>
+`LinkedIn:` [Aneerban Chakraborty](https://www.linkedin.com/in/aneerban-chakraborty/)
 
 <!---
 Aneerban1411/Aneerban1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
